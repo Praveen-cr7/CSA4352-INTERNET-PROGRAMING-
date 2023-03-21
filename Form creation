@@ -1,0 +1,39 @@
+<html>
+
+</head>
+
+<body>
+
+<form>
+
+<ul>
+
+<li><h4>FORMS: </h4></li>
+
+<li>NAME: </li>
+
+<input type="text";max_length=100> <li>DEPARTMENT</li>
+
+<select="dropdown" size=2;
+
+<option> value="CSE", <option> value="ECE">
+
+</option value>
+
+<li>GENDER</li>
+
+<input type="radio";value="male"> <input type="radio";value="female">
+
+<11>PASSWORD</li>
+
+<input type="password"; max length-100>
+
+</form>
+
+</body>
+
+<footer>
+
+</footer>
+
+</html>
